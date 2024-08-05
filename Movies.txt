@@ -1,0 +1,9 @@
+Movie		start		duration
+Krish		8am		2
+venom		10am		2
+Tenet		12pm		2
+RaOne		4pm		2
+Forest		4am		3
+dabang		12pm		2
+molajutt		10pm		3
+asdajutt		2		1
